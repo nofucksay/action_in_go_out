@@ -1,2 +1,65 @@
-# action_in_go_out
-action in go out
+# 从零教你走出去
+> 使用justmysocks的ss服务搭配outline客户端，通过图文教程，从零配置，实现走出去战略。
+>
+> 图文基本涵盖全部操作，只需要跟图进行操作即可。
+>
+
+
+
+# 成本
+> 1. 第一次配置所花费的时间（图文教程的意义在于帮你缩减此成本）
+> 2. 从justmysocks购买ss协议服务的开销（折扣码的意义在于帮你缩减此成本）
+
+
+
+# 收益
+> 1. 安全可靠，超大流量，独享带宽**的科学冲浪板**！
+> 2. 从此可以稳定地刷ins、发推、撸油管、**骂莫雷**、催周董发歌！
+
+
+
+## 一、注册并购买justmysocks服务
+> JustMySocks 是 Bandwagon Host (搬瓦工) 推出的 Shadowsocks 服务，自动切换 IP地址，服务稳定，支持月付。
+
+#### 1. 点击进入[justmysocks官网](https://justmysocks1.net/members/aff.php?aff=3702)
+
+#### 2. 按照下图步骤操作（折扣码：JMS9272283）：
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuw9a7gj217u0k6n8e.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwc4qpj217x0jzajf.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuw7842j217x0k642z.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuw896yj21800k5dn7.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuw826nj218d0jvjyf.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuw93mcj21870iugrq.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwago9j218d0j57ac.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwbxvyj21820jr7at.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwcrwwj217t0idq8p.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwdoqij21840i8jva.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwe07uj21860jadjy.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuweou9j21890jedhr.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwg3g7j21hc0p1dht.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwh4q8j21860jctdu.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwh785j21850ihafv.jpg)
+![](http://ww1.sinaimg.cn/large/e3b19145ly1gabsuwi763j217v0fln3r.jpg)
+
+
+
+## 二、配置outline客户端
+> Outline 是 Google 旗下一个致力于媒体自由的基金会 Jigsaw 发布的开源客户端，兼容justmysocks服务的 ss 协议。使用简单，安装客户端后，将第一步中最后复制的内容粘贴到outline即可走出去。
+
+#### 1. 下载outline客户端
+
+> 苹果： 到appstore搜索下载outline
+> 安卓：[使用手机浏览器点此链接下载并安装](https://cdn.shuziyimin.org/android-v1.2.12.apk)
+
+#### 2. 配置客户端
+
+> 1. 安装outline客户端后，从pc端将justmysocks服务秘钥通过微信发到手机，并用手机复制秘钥
+> 2. 打开outline客户端，将复制的秘钥粘贴到outline（一般情况下会自动识别秘钥并添加服务器）
+> 3. 添加好服务器后，点击连接，连接成功后即可开始科学冲浪（第一次连接可能失败，退出应用重试就好）
+>
+> ![image.png](http://ww1.sinaimg.cn/large/e3b19145ly1gabtwe2owjj20j20t0q4i.jpg)
+
+
+
+
+
